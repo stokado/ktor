@@ -83,6 +83,11 @@ public fun Route.swaggerUI(
                         href = "${config.packageLocation}@${config.version}/swagger-ui.css",
                         rel = "stylesheet"
                     )
+                    link (
+                        href = "${config.packageLocation}@${config.version}/favicon-32x32.png",
+                        rel = "icon",
+                        type = "image/png"
+                    )
                     config.customStyle?.let {
                         link(href = it, rel = "stylesheet")
                     }

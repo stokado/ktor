@@ -25,6 +25,7 @@ class SwaggerTest {
               <head>
                 <title>Swagger UI</title>
                 <link href="https://unpkg.com/swagger-ui-dist@5.17.12/swagger-ui.css" rel="stylesheet">
+                <link href="https://unpkg.com/swagger-ui-dist@5.17.12/favicon-32x32.png" rel="icon" type="image/png">
               </head>
               <body>
                 <div id="swagger-ui"></div>
@@ -65,6 +66,7 @@ class SwaggerTest {
               <head>
                 <title>Swagger UI</title>
                 <link href="https://unpkg.com/swagger-ui-dist@5.17.12/swagger-ui.css" rel="stylesheet">
+                <link href="https://unpkg.com/swagger-ui-dist@5.17.12/favicon-32x32.png" rel="icon" type="image/png">
               </head>
               <body>
                 <div id="swagger-ui"></div>
